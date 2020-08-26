@@ -1,0 +1,86 @@
+* {
+    margin:  0;
+    padding:  0;
+    }
+    .navbar a {
+    text-decoration: none; text-transform: uppercase;
+    font-family:  "Playfair  Display",  serif; font-weight:  600;
+    color: #626262 !important; padding:  0px  5px;
+    }
+    .navbar {
+    padding:  0.5rem  0rem  !important; width:  90%;
+    margin: auto;
+    overflow: hidden;
+    padding: 5px 0px;
+    }
+    .navbar li {
+    display: inline;
+    }
+    .navbar ul { float: right;
+    }
+    .banner { 
+        overflow: hidden;
+        width:  100%; margin: auto;
+    }
+    .banner img { 
+        width:  100%;
+        opacity: 0.8;
+    }
+    .photodiary,
+    .portion { width:  80%; margin: auto;
+     
+    margin-top:  50px; margin-bottom:  50px; overflow: hidden;
+    }
+    .photodiary  h5,
+    .portion h5 {
+    text-transform: uppercase;
+    font-family: "Ubuntu", sans-serif; color:  #b4ad9e;
+    margin:  20px  0; font-weight: normal;
+    }
+    
+    .photodiary  h1,
+    .portion  h1,
+    .news h1 {
+    font-family:  "Playfair  Display",  serif; color:  #626262;
+    margin:  20px  0; font-size:  30px; font-weight:  600;
+    }
+    
+    .photodiary  p,
+    .portion p {
+    font-family:  "Playfair  Display",  serif; color:  #626262;
+    margin:  20px  0; font-size:  14px; font-weight:  400;
+    line-height: 1.7;
+    }
+    
+    .box {
+    display: inline;
+    }
+    .left   { float: left; width:  40%;
+    }
+    .right   { float: right; width:  40%;
+    }
+    .news {
+     
+    background-color: #f0f0f0; padding:  80px  0;
+    width:  100%; margin: auto; overflow: hidden;
+    }
+    .row {
+    width:  80%; margin: auto;
+    text-align: center;
+    }
+    .Conntact {
+    margin-bottom:  50px; text-align: center;
+    }
+    
+    footer { padding:  20px;
+    background-color: #f0f0f0;
+    /* display: flex;
+    justify-content:  space-between;  */
+    }
+    #logo{
+        float: left;
+        height: 10%;
+    }
+    #logo img {
+        width: 20%;
+    }
